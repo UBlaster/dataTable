@@ -59,11 +59,11 @@ onBeforeMount(async () =>{
   width: 100%;
 
   & thead th {
-    border-right: 1px solid #ccc;     /* Рамка */
+    border-right: 1px solid #ccc; 
   }
 
   & thead th:last-child {
-    border-right: none;     /* Рамка */
+    border-right: none;    
   }
 }
 
